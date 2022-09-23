@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Chat</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+        integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Slab' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <h1 class="feedback-form-title">Send us feedback</h1>
+                <form class="feedback-form">
+                    <div class="form-group">
+                        <label for="feedback-form-name">Name</label>
+                        <input type="text" class="form-control" id="feedback-form-name" placeholder="Enter your name">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="feedback-form-title">Title</label>
+                        <input type="text" class="form-control" id="feedback-form-title"
+                            placeholder="Title of your feedback">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="feedback-form-message">Message</label>
+                        <textarea type="text" placeholder="Enter your message, then hit the submit" class="form-control"
+                            id="feedback-form-message" rows="6"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-default pull-right">Submit</button>
+                </form>
+            </div><!-- primary -->
+            <aside class="col-sm-8">
+                <div class="maincontent feedback">
+                    <h2 class="article-title">Recent Feedback</h2>
+                    <div class="feedback-messages">
+
+                   
+
+
+                        
+
+                    </div>
+                </div>
+            </aside><!-- secondary -->
+        </div>
+    </div><!-- container -->
+
+
+    <nav class="navbar navbar-expand-lg fixed-bottom">
+        <div class="container-fluid">
+          <a class="navbar-brand">GY!BE</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="/">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/album">Albums</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/feedback">Feedback</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/chat">Chat</a>
+              </li>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+        integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+        crossorigin="anonymous"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,67 @@
+
+{
+"albums": [{
+    "name": "GY!BE",
+    "shortname": "f#a#",
+    "albumname" : "F♯ A♯ ∞",
+    "summary" : "F♯ A♯ ∞ (pronounced F-sharp, A-sharp, Infinity) is the debut studio album by Canadian post-rock band Godspeed You! Black Emperor. It was first released on August 14, 1997 through Constellation Records on vinyl and on June 8, 1998 through Kranky on CD. The CD version and the vinyl version have substantial differences between them. Recorded at the Hotel2Tango in the Mile End of Montreal, the album is devoid of traditional lyrics and is mostly instrumental, featuring lengthy songs segmented into movements. It was initially released in limited quantities, and distributed through live performances and developed a cult following via word of mouth.",
+    "artwork": ["fa.jpeg"],
+    "tracklist": "1. The Dead Flag Blues  2. East Hastings3. Providence  ",
+    "albumAM": "",
+    "albumSM": ""
+},{
+    "name": "GY!BE",
+    "shortname": "skinnyhands",
+    "albumname" : "Lift Your Skinny Fists Like Antennas to Heaven",
+    "summary" : "Lift Your Skinny Fists Like Antennas to Heaven (often shortened to Lift Your Skinny Fists or LYSF), or Levez Vos Skinny Fists Comme Antennas to Heaven on the rear of physical releases, is the second studio album by Canadian post-rock band Godspeed You! Black Emperor, released as a double album on October 9, 2000 on vinyl by Constellation and November 8, 2000 on CD by Kranky. It has been listed on multiple decade-end lists as one of the greatest albums of the 2000s.",
+    "artwork": ["skinnyhands.jpeg"],
+    "tracklist": "1. Storm 2. Static3. Sleep4. Like Antennas to Heaven...",
+    "albumAM": "",
+    "albumSM": ""
+},{
+    "name": "GY!BE",
+    "shortname": "yanqui",
+    "albumname" : "Yanqui U.X.O.",
+    "summary" : "Yanqui U.X.O. is the third studio album by Canadian post-rock band Godspeed You! Black Emperor, released on November 4, 2002 by Constellation. It was recorded by Steve Albini at Electrical Audio in Chicago in late 2001, and was the band's first album released after their slight name change (moving the exclamation mark from the 'emperor' to the 'you'). Lacking both their characteristic interwoven field recordings and specifically named movements, the album was instead described by the band as 'just raw, angry, dissonant, epic instrumental rock'.Shortly after its release, the group announced an indefinite hiatus so band members could pursue differing musical interests; it was their last album for a decade until the release of 2012's 'Allelujah! Don't Bend! Ascend!.",
+    "artwork": ["yanqui.jpeg"],
+    "tracklist": "1. 09-15-002. Rockets Fall on Rocket Falls3. Motherfucker=Redeemer4. Motherfucker=Redeemer (cont.)",
+    "albumAM": "",
+    "albumSM": ""
+},{
+    "name": "GY!BE",
+    "shortname": "ascend",
+    "albumname" : "Allelujah! Don't Bend! Ascend!",
+    "summary" : "'Allelujah! Don't Bend! Ascend! (sometimes stylized in all caps) is the fourth studio album by Canadian post-rock band Godspeed You! Black Emperor, released on October 15, 2012, by Constellation Records, which was their first album since 2002's Yanqui U.X.O.. After reforming in 2010, the group went on tour and silently released the album at a concert in Boston on October 1, 2012, with official release dates on October 15 in Europe and the following day in other countries. The album received positive reviews and has been heralded as a comeback for the collective, winning the 2013 Polaris Music Prize.The album marked the beginning of a major stylistic change for Godspeed You! Black Emperor, being less technically complex and emphasizing further on drones while abandoning the concept of movements altogether a compositional format they would continue to employ until 2021's G_d's Pee at State's End!.",
+    "artwork": ["ascend.jpeg"],
+    "tracklist": "1. Mladic 2. Their Helicopters Sing 3. We Drift Like Worried Fire  4. Strung Like Lights at Thee Printemps Erable",
+    "albumAM": "",
+    "albumSM": ""
+},{
+    "name": "GY!BE",
+    "shortname": "asunder",
+    "albumname" : "Asunder, Sweet and Other Distress",
+    "summary" : "Asunder, Sweet and Other Distress is the fifth studio album by Canadian post-rock band Godspeed You! Black Emperor, released on 31 March 2015 by Constellation Records. The album was recorded with Electrical Audio engineer Greg Norman in North Carolina and Montreal, and was the first to feature completely new material since the band's reformation in 2010. It is also, with the exception of the vinyl version of F♯ A♯ ∞ (ignoring the locked groove), the group's shortest album to date, timing in at just forty minutes.The album was announced on 24 February 2015; the group also shared an excerpt of 'Peasantry or 'Light! Inside of Light!' on SoundCloud. On 24 March 2015, Constellation streamed the album on their SoundCloud.",
+    "artwork": ["asunder.jpeg"],
+    "tracklist": "1. Peasantry or 'Light! Inside of Light!2. Lambs' Breath3. Asunder, Sweet 4. Piss Crowns Are Trebled",
+    "albumAM": "",
+    "albumSM": ""
+},{
+    "name": "GY!BE",
+    "shortname": "luciferian",
+    "albumname" : "Luciferian Towers",
+    "summary" : "Luciferian Towers (sometimes stylized as 'Luciferian Towers') is the sixth studio album by Canadian post-rock band Godspeed You! Black Emperor, released on 22 September 2017 by Constellation Records.",
+    "artwork": ["luciferian.jpeg"],
+    "tracklist": "1. Undoing a Luciferian Towers2. Bosses Hang3. Fam / Famine 4. Anthem for No State",
+    "albumAM": "",
+    "albumSM": ""
+},{
+    "name": "GY!BE",
+    "shortname": "pee",
+    "albumname" : "G_d's Pee at State's End!",
+    "summary" : "G_d's Pee at State's End! (stylised as G_d's Pee AT STATE'S END!) is the seventh studio album by Canadian post-rock band Godspeed You! Black Emperor, released on 2 April 2021 by Constellation Records.",
+    "artwork": ["pee.jpeg"],
+    "tracklist": "1. A Military Alphabet (five eyes all blind) [4521.0kHz 6730.0kHz 4109.09kHz]2. Job's Lament3. First of the Last Glaciers4. where we break how we shine (ROCKETS FOR MARY)5. Fire at Static Valley6. GOVERNMENT CAME (9980.0kHz 3617.1kHz 4521.0 kHz)7. Cliffs Gaze / cliffs' gaze at empty waters' rise / ASHES TO SEA or NEARER TO THEE8. OUR SIDE HAS TO WIN (for D.H.)",
+    "albumAM": "",
+    "albumSM": ""
+}]
+}

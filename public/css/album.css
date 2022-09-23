@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    background-image: url(https://live.staticflickr.com/5250/5363848754_7384577e18_b.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 800px;
+  
+    
+}
+
+ul{
+    list-style: none;
+    color: white;
+    /* position: relative;
+    left: 475px;
+    top: 200px; */
+   
+}
+
+h2{
+    color: white;
+}
+
+nav{
+    background-color: black;
+    
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: white;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: white;
+  }
+  
+  /* selected link */
+  a:active {
+    color: white;
+  }
+
+.albumhyperlink{
+    position: relative;
+    right: 475px;
+    top: 200px;
+}

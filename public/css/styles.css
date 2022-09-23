@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    background-color: gray;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Godspeed_You%21_Black_Emperor_%40_Roadburn_Festival_2018-04-21_003.jpg/2560px-Godspeed_You%21_Black_Emperor_%40_Roadburn_Festival_2018-04-21_003.jpg);
+    background-repeat: no-repeat;
+    opacity: 40%;
+    background-size: 1450px 800px;
+    z-index: 10;
+    
+    
+
+}
+
+.video-background{
+    position: relative;
+    /* top: 50px; */
+    right: 20px;
+    z-index: 5;
+}
+  
+
+.mainText{
+    color: black;
+    border: black;
+}
+
+.gybecontainer{
+    position: relative;
+    top: 230px;
+    right: 250px;
+}
+
+.albumContainer{
+    position: relative;
+    top: 140px;
+    left: 250px;
+
+}
+
+nav{
+    z-index: 20;
+}
+/* unvisited link */
+a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: white;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: white;
+  }
+  
+  /* selected link */
+  a:active {
+    color: white;
+  }
+
+
+  h1{
+    color: white;
+    text-align: center;
+    z-index: 5;
+    margin: 10px;
+  }

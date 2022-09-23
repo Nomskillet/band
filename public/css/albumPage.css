@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    background-image: url(https://i.guim.co.uk/img/media/7314d34c0426f80107807b1e2956b3ae1b1569f2/42_0_2003_1365/master/2003.jpg?width=1020&quality=45&fit=max&dpr=2&s=9e03e9a9517d153315c9578ff76c3f6c);
+    background-repeat: no-repeat;
+    background-size: 1450px 800px;
+
+    margin: 0;
+}
+
+li{
+    list-style: none;
+    color: white;
+   
+}
+
+h2{
+    color: white;
+}
